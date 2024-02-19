@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @earmstrong2002
+- 👋 Hi, I’m Eli
 - 👀 I’m interested in pursuing a career in sofware development/engineeing.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on making the world a better place ( ͡° ͜ʖ ͡°)
 
 <!---
